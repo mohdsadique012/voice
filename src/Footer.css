@@ -1,0 +1,29 @@
+.footer-img{
+    width: 20rem;
+    height: 20rem;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+.footer-h2{
+    margin-top: 0;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(239, 66, 9);
+    background-color: rgb(42, 231, 218);
+    padding: 8px;
+    border-radius: 2rem;
+
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    
+}
